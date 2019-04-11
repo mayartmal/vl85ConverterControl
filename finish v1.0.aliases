@@ -1,0 +1,6 @@
+[cRIO-class]
+cRIO-class = "192.168.1.9"
+
+[My Computer]
+My Computer = "127.0.0.1"
+
